@@ -2,6 +2,8 @@
 
 Work logging system. Inspired by Carmack's .plan files — log what you're doing, why it matters, and what's blocked.
 
+Adapted from [davidhariri/life-system](https://github.com/davidhariri/life-system) for a work context.
+
 ---
 
 ## Locations
