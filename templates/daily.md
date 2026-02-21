@@ -1,0 +1,27 @@
+# {{DATE}}
+
+## Focus
+
+<!-- 1-3 things. Specific. -->
+
+- [ ]
+
+## Log
+
+<!-- Timestamped notes throughout the day. What happened, what you learned, what changed. -->
+
+-
+
+## EOD
+
+### Shipped / Advanced
+
+-
+
+### Blocked
+
+-
+
+### Tomorrow
+
+- [ ]
